@@ -24,3 +24,23 @@ the answer for both of these questions the answer is change account
 change date, time or number formats is the answer for all of these questions
 ### spurning 9
 optimize visual display
+## device manager
+### spurning 1
+view and update your device hardware settings and driver software.
+### spurning 2
+Action => Add legacy hardware.
+### spurning 3
+The additional detail are:
+* Provider
+* File Version
+* Copyright
+* Digital Signer
+* Catalog File
+### spurning 4
+The options are:
+* Search automatically for drivers
+* Browse my computer for drivers
+### spurning 5
+The button is grayed out because it only becomes available to use if the device fails after updating a driver
+### spurning 6
+the options
