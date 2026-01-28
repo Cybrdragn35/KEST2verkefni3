@@ -44,3 +44,8 @@ The options are:
 The button is grayed out because it only becomes available to use if the device fails after updating a driver
 ### spurning 6
 the options
+
+##  Search for BIOS or UEFI Firmware Updates
+### spurning 1
+f2
+### spurning 2
