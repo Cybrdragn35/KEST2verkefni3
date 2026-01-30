@@ -74,14 +74,21 @@ time, date, battery and internet connection.
 There is no customize option for the notifaction area
 ## Create a Partition in Windows
 ### spurning 1
-
+FAT32
 ### spurning 2
+2 gb
 ### spurning 3
+General, Tools, Hardware, Sharing Previous, customize. 
 ### spurning 4
+General Digital Signatures, Details, Prevoius Versions
 ### spurning 5
+NTFS
 ### spurning 1
+General, Tools, Hardware, Previous Versions, customize, Quota, Security. 
 ### spurning 1
+Previous Versions, customize, Quota, Security. 
 ### spurning 1
+
 ### spurning 1
 ### spurning 1
 ### spurning 1
