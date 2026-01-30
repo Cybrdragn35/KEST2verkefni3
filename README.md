@@ -56,16 +56,42 @@ Lenovo
 ## Explore the Windows Desktop
 ### spurning 1
 Recycle, Microsoft Edge
-### spurning 1
+### spurning 2
 on the taskbar you can see the time, date, battery and internet connection.
-### spurning 1
+### spurning 3
 Calculator, Clock ,notepad, Paint
-### spurning 1
+### spurning 4
 Create a new app folder, unpin from start, Run as administrator, pin to taskbar, app settings, uninstall.
-### spurning 1
+### spurning 5
 Taskbar items, system tray icons, Other system icons.
+### spurning 6
+There are no settings for task view
+### spurning 7
+task view created a new window
+### spurning 8
+time, date, battery and internet connection.
+### spurning 9
+There is no customize option for the notifaction area
+## Create a Partition in Windows
 ### spurning 1
 
+### spurning 2
+### spurning 3
+### spurning 4
+### spurning 5
+### spurning 1
+### spurning 1
+### spurning 1
+### spurning 1
+### spurning 1
+### spurning 1
+### spurning 1
+### spurning 1
+### spurning 1
+### spurning 1
+### spurning 1
+### spurning 1
+### spurning 1
 ### spurning 1
 ### spurning 1
 ### spurning 1
