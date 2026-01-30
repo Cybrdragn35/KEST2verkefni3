@@ -55,6 +55,17 @@ Lenovo
 
 ## Explore the Windows Desktop
 ### spurning 1
+Recycle, Microsoft Edge
+### spurning 1
+on the taskbar you can see the time, date, battery and internet connection.
+### spurning 1
+Calculator, Clock ,notepad, Paint
+### spurning 1
+Create a new app folder, unpin from start, Run as administrator, pin to taskbar, app settings, uninstall.
+### spurning 1
+Taskbar items, system tray icons, Other system icons.
+### spurning 1
+
 ### spurning 1
 ### spurning 1
 ### spurning 1
@@ -62,3 +73,6 @@ Lenovo
 ### spurning 1
 ### spurning 1
 ### spurning 1
+### spurning 1
+### spurning 1
+
