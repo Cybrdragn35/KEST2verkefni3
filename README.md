@@ -97,9 +97,11 @@ The web browser was closed
 ### spurning 1
 expand, end task, Resource values, Provide feedback, search online.
 ### spurning 1
+running, suspended
+### spurning 1
+End task, Endprocess tree, Provide feedback, efficiency mode, set priority, set affinity
+### spurning 1
 
-### spurning 1
-### spurning 1
 ### spurning 1
 ### spurning 1
 ### spurning 1
