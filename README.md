@@ -91,10 +91,13 @@ Previous Versions, customize, Quota, Security.
 General, Digital Signatures, Details, Prevoius Versions, Security
 ### spurning 1
 Security
-## 
+##  Work with Task Manager
 ### spurning 1
+The web browser was closed
 ### spurning 1
+expand, end task, Resource values, Provide feedback, search online.
 ### spurning 1
+
 ### spurning 1
 ### spurning 1
 ### spurning 1
