@@ -83,27 +83,29 @@ General, Tools, Hardware, Sharing Previous, customize.
 General Digital Signatures, Details, Prevoius Versions
 ### spurning 5
 NTFS
-### spurning 1
+### spurning 6
 General, Tools, Hardware, Previous Versions, customize, Quota, Security. 
-### spurning 1
+### spurning 7
 Previous Versions, customize, Quota, Security. 
-### spurning 1
+### spurning 8
 General, Digital Signatures, Details, Prevoius Versions, Security
-### spurning 1
+### spurning 9
 Security
 ##  Work with Task Manager
 ### spurning 1
 The web browser was closed
-### spurning 1
+### spurning 2
 expand, end task, Resource values, Provide feedback, search online.
-### spurning 1
+### spurning 3
 running, suspended
-### spurning 1
+### spurning 4
 End task, Endprocess tree, Provide feedback, efficiency mode, set priority, set affinity
-### spurning 1
+### spurning 5
+14%
+### spurning 6
 
-### spurning 1
-### spurning 1
+### spurning 7
+
 ### spurning 1
 ### spurning 1
 ### spurning 1
