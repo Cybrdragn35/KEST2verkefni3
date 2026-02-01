@@ -103,10 +103,11 @@ End task, Endprocess tree, Provide feedback, efficiency mode, set priority, set 
 ### spurning 5
 14%
 ### spurning 6
-
+1752
 ### spurning 7
-
+144
 ### spurning 1
+
 ### spurning 1
 ### spurning 1
 ### spurning 1
