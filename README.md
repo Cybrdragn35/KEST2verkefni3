@@ -161,6 +161,36 @@ documents, downloads, music, pictures,  videos
 click on the big folder1 in the new library and click delete
 ## Manage Virtual Memory
 ### spurning 1
+1408 mb
+### spurning 2
+C: [Windows]
+### spurning 3
+1405 mb
+### spurning 4
+I: [ITE]
+## Monitor and Manage System Resources
+### spurning 1
+Microsoft Print to PDF
+### spurning 1
+Your printer has expirienced an unexpected configuration problem 0x800706ba
+### spurning 1
+Windows connetion manager, IP helper, WinHTTP web proxy auto discovery service
+### spurning 1
+Becuase if you are not cautios then you could deal irrepairable damage to the computer
+### spurning 1
+C:\Perflogs\WINDOWS3_20260204-000001\DataCollector01.csv
+### spurning 1
+1901, 1786, 1827, 1843
+## System Utilities
+### spurning 1
+
+### spurning 1
+
+### spurning 1
+
+### spurning 1
+
+### spurning 1
 
 ### spurning 1
 
@@ -171,6 +201,17 @@ click on the big folder1 in the new library and click delete
 ### spurning 1
 
 ### spurning 1
+
+### spurning 1
+
+### spurning 1
+
+### spurning 1
+
+### spurning 1
+
+### spurning 1
+
 
 
 
