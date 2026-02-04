@@ -229,6 +229,39 @@ driver audio info, device audio info
 directinput devices, Input related devices, notes
 ## Work in the Windows Command Shell
 ### spurning 1
+if you press enter then it shows the next line
+### spurning 1
+mkdirs\a\b\c
+### spurning 1
+DIR
+### spurning 1
+CLS
+### spurning 1
+CLS
+### spurning 1
+CLS
+## File System Commands
+### spurning 1
+
+### spurning 1
+
+### spurning 1
+
+### spurning 1
+
+### spurning 1
+
+### spurning 1
+
+### spurning 1
+
+### spurning 1
+
+### spurning 1
+
+### spurning 1
+
+### spurning 1
 
 ### spurning 1
 
