@@ -72,6 +72,7 @@ task view created a new window
 time, date, battery and internet connection.
 ### spurning 9
 There is no customize option for the notifaction area
+
 ## Create a Partition in Windows
 ### spurning 1
 FAT32
@@ -91,6 +92,7 @@ Previous Versions, customize, Quota, Security.
 General, Digital Signatures, Details, Prevoius Versions, Security
 ### spurning 9
 Security
+
 ##  Work with Task Manager
 ### spurning 1
 The web browser was closed
@@ -106,15 +108,70 @@ End task, Endprocess tree, Provide feedback, efficiency mode, set priority, set 
 1752
 ### spurning 7
 144
+### spurning 8
+5.4 gb
+### spurning 9
+2.1 gb
+### spurning 10
+2.1 gb
+### spurning 11
+The adapter name is Ethernet
+### spurning 12
+The connection type is Ethernet
+### spurning 13
+10.02.15
+### spurning 14
+This changes the clomns to show which Processes use the least and most amount of memory
+### spurning 15
+now the memory column shows percents instead of values.
+### spurning 16
+this could be usefull to swap between percents and values depending on your needs 
+### spurning 17
+Microsoft edge, task manager
+### spurning 18
+disable, Open file location, search online, Properties
+### spurning 19
+with the app history tab, you can see how long certain apps have been open for
+### spurning 20
+End task, Endprocess tree, Provide feedback, efficiency mode, set priority, set affinity, analyze wait chain, UAC virtualization, create memory dump file, Open file location, Search online, propeties, go to service(s)
+## Work with File Explorer
+### spurning 1
+Folder2 got moved into folder1
+### spurning 2
+.txt
+### spurning 3
+crtl+C  =>  open folder 2  =>  Crtl+V
+### spurning 4
+A
+### spurning 5
+C:\users\vboxuser\Desktop\Folder1\Folder2
+### spurning 6
+you would want to do this to have quick access to the file in question.
+### spurning 7
+inetpub, perflogs, program files, Program files (x86), users, windows
+### spurning 8
+public, vboxuser
+### spurning 9
+yes i was able to open it
+### spurning 10
+Public documents, Public downloads, Public music, Public pictures, Public videos
+### spurning 11
+documents, downloads, music, pictures,  videos
+### spurning 12
+click on the big folder1 in the new library and click delete
+## Manage Virtual Memory
 ### spurning 1
 
 ### spurning 1
+
 ### spurning 1
+
 ### spurning 1
+
 ### spurning 1
+
 ### spurning 1
-### spurning 1
-### spurning 1
-### spurning 1
-### spurning 1
+
+
+
 
