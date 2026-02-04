@@ -183,6 +183,60 @@ C:\Perflogs\WINDOWS3_20260204-000001\DataCollector01.csv
 1901, 1786, 1827, 1843
 ## System Utilities
 ### spurning 1
+management tools => computer management => system tools => event viewer
+### spurning 1
+A blueish object in a light blue space
+### spurning 1
+0 99 177
+### spurning 1
+0 99 177
+### spurning 1
+235 17 35
+### spurning 1
+0 99 177
+### spurning 1
+235 17 35
+### spurning 1
+0 99 177
+## Manage System Files
+### spurning 1
+12th Gen Intel(R) Core(TM) i5-12500H, 2500 Mhz, 12 Core(s), 16 Logical Processor(s)
+### spurning 1
+LENOVO JMCN26WW(V1.05), 2/9/2022
+### spurning 1
+15.7 GB
+### spurning 1
+channel 4, Direct memory access controller
+### spurning 1
+Microsoft basic display adapter
+### spurning 1
+0 bytes
+### spurning 1
+Startup programs
+### spurning 1
+normal startup, diagnostic startup, selective startup
+### spurning 1
+yes
+### spurning 1
+you can see the descriptions of various tools
+### spurning 1
+this tool reports deatiled information about the directX components and drivers installed on your system
+### spurning 1
+driver display info, device display info, directX Features
+### spurning 1
+driver audio info, device audio info
+### spurning 1
+directinput devices, Input related devices, notes
+## Work in the Windows Command Shell
+### spurning 1
+
+### spurning 1
+
+### spurning 1
+
+### spurning 1
+
+### spurning 1
 
 ### spurning 1
 
