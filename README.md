@@ -1,5 +1,6 @@
 # KEST2verkefni3
 
+
 ## User Accounts
 ### spurning 1
 Standard accounts can use most software and change system settings that don't affect the other users or the security of this PC.
@@ -24,6 +25,8 @@ the answer for both of these questions the answer is change account
 change date, time or number formats is the answer for all of these questions
 ### spurning 9
 optimize visual display
+
+
 ## device manager
 ### spurning 1
 view and update your device hardware settings and driver software.
@@ -44,6 +47,7 @@ The options are:
 The button is grayed out because it only becomes available to use if the device fails after updating a driver
 ### spurning 6
 the options
+
 
 ##  Search for BIOS or UEFI Firmware Updates
 ### spurning 1
@@ -73,6 +77,7 @@ time, date, battery and internet connection.
 ### spurning 9
 There is no customize option for the notifaction area
 
+
 ## Create a Partition in Windows
 ### spurning 1
 FAT32
@@ -92,6 +97,7 @@ Previous Versions, customize, Quota, Security.
 General, Digital Signatures, Details, Prevoius Versions, Security
 ### spurning 9
 Security
+
 
 ##  Work with Task Manager
 ### spurning 1
@@ -134,6 +140,8 @@ disable, Open file location, search online, Properties
 with the app history tab, you can see how long certain apps have been open for
 ### spurning 20
 End task, Endprocess tree, Provide feedback, efficiency mode, set priority, set affinity, analyze wait chain, UAC virtualization, create memory dump file, Open file location, Search online, propeties, go to service(s)
+
+
 ## Work with File Explorer
 ### spurning 1
 Folder2 got moved into folder1
@@ -159,6 +167,8 @@ Public documents, Public downloads, Public music, Public pictures, Public videos
 documents, downloads, music, pictures,  videos
 ### spurning 12
 click on the big folder1 in the new library and click delete
+
+
 ## Manage Virtual Memory
 ### spurning 1
 1408 mb
@@ -168,6 +178,8 @@ C: [Windows]
 1405 mb
 ### spurning 4
 I: [ITE]
+
+
 ## Monitor and Manage System Resources
 ### spurning 1
 Microsoft Print to PDF
@@ -198,6 +210,8 @@ A blueish object in a light blue space
 235 17 35
 ### spurning 1
 0 99 177
+
+
 ## Manage System Files
 ### spurning 1
 12th Gen Intel(R) Core(TM) i5-12500H, 2500 Mhz, 12 Core(s), 16 Logical Processor(s)
@@ -240,33 +254,73 @@ CLS
 CLS
 ### spurning 1
 CLS
+
+
 ## File System Commands
 ### spurning 1
-
+C:\Users\vboxusers
 ### spurning 1
-
+ITEfolder3
 ### spurning 1
-
+md ITEfolder4
 ### spurning 1
-
+C:\Users\vboxusers\ITEfolder3\ITEfolder4
 ### spurning 1
-
+C:\Users\vboxusers\ITEfolder3
 ### spurning 1
-
+del doc2*
 ### spurning 1
-
+\E
 ### spurning 1
+no i was not since it said it could not find th file specified
 
+
+## Disk CLI Commands
 ### spurning 1
-
+/F
 ### spurning 1
-
+/x
 ### spurning 1
-
+/R
 ### spurning 1
-
+NTFS
 ### spurning 1
+there are 6 partitions on the disk
+### spurning 1
+QUERYMAX
+### spurning 1
+977 mb
 
+
+## Task and System CLI Commands
+### spurning 1
+tasklist | more
+### spurning 1
+/M
+### spurning 1
+tasklist /M oleaut32.dll. Wildcard * 
+### spurning 1
+tasklist /fi "username eq vboxuser"
+### spurning 1
+tasklist /FI "cputime gt 01:40:002"
+### spurning 1
+taskkill vboxuser
+### spurning 1
+/verifyonly
+### spurning 1
+dism /online /get-drivers /all /format:table | more
+### spurning 1
+/l
+### spurning 1
+shutdown /s /t 30. Windows will shut down in 2 minutes.
+### spurning 1
+ shutdown /a
+
+
+## Other Useful Commands
+##  Install Third-Party Software in Windows
+### spurning 1
+C:\Program Files\cisco packet tracer 9.0.0
 ### spurning 1
 
 ### spurning 1
