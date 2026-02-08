@@ -183,175 +183,149 @@ I: [ITE]
 ## Monitor and Manage System Resources
 ### spurning 1
 Microsoft Print to PDF
-### spurning 1
+### spurning 2
 Your printer has expirienced an unexpected configuration problem 0x800706ba
-### spurning 1
+### spurning 3
 Windows connetion manager, IP helper, WinHTTP web proxy auto discovery service
-### spurning 1
+### spurning 4
 Becuase if you are not cautios then you could deal irrepairable damage to the computer
-### spurning 1
+### spurning 5
 C:\Perflogs\WINDOWS3_20260204-000001\DataCollector01.csv
-### spurning 1
+### spurning 6
 1901, 1786, 1827, 1843
 ## System Utilities
-### spurning 1
+### spurning 7
 management tools => computer management => system tools => event viewer
-### spurning 1
+### spurning 8
 A blueish object in a light blue space
-### spurning 1
+### spurning 9
 0 99 177
-### spurning 1
+### spurning 10
 0 99 177
-### spurning 1
+### spurning 11
 235 17 35
-### spurning 1
+### spurning 12
 0 99 177
-### spurning 1
+### spurning 13
 235 17 35
-### spurning 1
+### spurning 14
 0 99 177
 
 
 ## Manage System Files
 ### spurning 1
 12th Gen Intel(R) Core(TM) i5-12500H, 2500 Mhz, 12 Core(s), 16 Logical Processor(s)
-### spurning 1
+### spurning 2
 LENOVO JMCN26WW(V1.05), 2/9/2022
-### spurning 1
+### spurning 3
 15.7 GB
-### spurning 1
+### spurning 4
 channel 4, Direct memory access controller
-### spurning 1
+### spurning 5
 Microsoft basic display adapter
-### spurning 1
+### spurning 6
 0 bytes
-### spurning 1
+### spurning 7
 Startup programs
-### spurning 1
+### spurning 8
 normal startup, diagnostic startup, selective startup
-### spurning 1
+### spurning 9
 yes
-### spurning 1
+### spurning 10
 you can see the descriptions of various tools
-### spurning 1
+### spurning 11
 this tool reports deatiled information about the directX components and drivers installed on your system
-### spurning 1
+### spurning 12
 driver display info, device display info, directX Features
-### spurning 1
+### spurning 13
 driver audio info, device audio info
-### spurning 1
+### spurning 14
 directinput devices, Input related devices, notes
+
+
 ## Work in the Windows Command Shell
 ### spurning 1
 if you press enter then it shows the next line
-### spurning 1
+### spurning 2
 mkdirs\a\b\c
-### spurning 1
+### spurning 3
 DIR
-### spurning 1
+### spurning 4
 CLS
-### spurning 1
+### spurning 5
 CLS
-### spurning 1
+### spurning 6
 CLS
 
 
 ## File System Commands
 ### spurning 1
 C:\Users\vboxusers
-### spurning 1
+### spurning 2
 ITEfolder3
-### spurning 1
+### spurning 3
 md ITEfolder4
-### spurning 1
+### spurning 4
 C:\Users\vboxusers\ITEfolder3\ITEfolder4
-### spurning 1
+### spurning 5
 C:\Users\vboxusers\ITEfolder3
-### spurning 1
+### spurning 6
 del doc2*
-### spurning 1
+### spurning 7
 \E
-### spurning 1
+### spurning 8
 no i was not since it said it could not find th file specified
 
 
 ## Disk CLI Commands
 ### spurning 1
 /F
-### spurning 1
+### spurning 2
 /x
-### spurning 1
+### spurning 3
 /R
-### spurning 1
+### spurning 4
 NTFS
-### spurning 1
+### spurning 5
 there are 6 partitions on the disk
-### spurning 1
+### spurning 6
 QUERYMAX
-### spurning 1
+### spurning 7
 977 mb
 
 
 ## Task and System CLI Commands
 ### spurning 1
 tasklist | more
-### spurning 1
+### spurning 2
 /M
-### spurning 1
+### spurning 3
 tasklist /M oleaut32.dll. Wildcard * 
-### spurning 1
+### spurning 4
 tasklist /fi "username eq vboxuser"
-### spurning 1
+### spurning 5
 tasklist /FI "cputime gt 01:40:002"
-### spurning 1
+### spurning 6
 taskkill vboxuser
-### spurning 1
+### spurning 7
 /verifyonly
-### spurning 1
+### spurning 8
 dism /online /get-drivers /all /format:table | more
-### spurning 1
+### spurning 9
 /l
-### spurning 1
+### spurning 10
 shutdown /s /t 30. Windows will shut down in 2 minutes.
-### spurning 1
+### spurning 11
  shutdown /a
 
 
 ## Other Useful Commands
+
+
 ##  Install Third-Party Software in Windows
 ### spurning 1
 C:\Program Files\cisco packet tracer 9.0.0
-### spurning 1
 
-### spurning 1
-
-### spurning 1
-
-### spurning 1
-
-### spurning 1
-
-### spurning 1
-
-### spurning 1
-
-### spurning 1
-
-### spurning 1
-
-### spurning 1
-
-### spurning 1
-
-### spurning 1
-
-### spurning 1
-
-### spurning 1
-
-### spurning 1
-
-### spurning 1
 
 
 
